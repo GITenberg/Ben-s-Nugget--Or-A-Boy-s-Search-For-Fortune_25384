@@ -1,0 +1,36 @@
+_repo: Ben-s-Nugget--Or-A-Boy-s-Search-For-Fortune_25384
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25384-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Starr, Julian
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2008-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'California -- History -- 19th century -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Ben's Nugget; Or, A Boy's Search For Fortune
+url: http://www.gutenberg.org/ebooks/25384
